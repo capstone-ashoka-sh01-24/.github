@@ -18,4 +18,5 @@ In (partial) fulfillment of requirements for a Postgraduate Diploma in Advanced 
 
 ---
 
-+ Project 1: Basic website with a single experiment.
++ Project 1: Scaffolding of a web-app using Svelte + SvelteKit.
++ Psychtests: Stop Signal Task

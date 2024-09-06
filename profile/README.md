@@ -19,4 +19,4 @@ In (partial) fulfillment of requirements for a Postgraduate Diploma in Advanced 
 ---
 
 + Project 1: Scaffolding of a web-app using Svelte + SvelteKit.
-+ Psychtests: Stop Signal Task
++ simple-extension: A demo Chrome Extension (SvelteKit)
